@@ -1,0 +1,123 @@
+* {
+    margin: 0%;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Inter', sans-serif;
+    
+}
+header {
+    height: 70px;
+    background: #1ABC9C;
+    padding: 15px 0;
+}
+.header-wrapper {
+    width: 90%;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.social-icon {
+    margin-right: 20px;
+    }
+.block1 {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 15 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    line-height: 42px;
+}
+p {
+    width: 85%;
+    margin:auto;
+    padding: 30px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+/* 2 Block */
+
+.arena{
+    width: 100%;
+    background-color: #dcffeb;
+    padding: 124px 0 124px;
+}
+.wrapper {
+    
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+
+.wrapper img {
+    background-image: url(./images/);
+    width: calc(33%-38px);
+    margin-right: 38px;
+    margin: auto;
+    height: 376px;
+}
+
+h2 {
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+
+
+
+/* .block2 {
+    background-color: #DCFFEB;
+    height: 100vh;
+    width: 100%;
+    margin: auto;
+    /* height: 730px;
+    background-color: #DCFFEB;
+    width: 100%;
+    margin:auto;
+    padding: 30px; */
+/* }
+.left-text {
+
+    display: flex;
+    flex-direction: column ;
+    padding: 0 36px 36px;
+    align-items: flex-start;
+    background-image: url(./images/Rectangle\ 3.png);
+    background-repeat: no-repeat;
+
+}
+h2 {
+    font-size: 35px;
+    padding: 124px 65px 0;  
+}
+.pictures {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 65px;
+
+    }
+    
+.pictures1 {
+    width: 30%;
+}
+
+.pictures2 {
+    width: 30%
+}
+.pictures3 {
+    width: 30%
+} */
